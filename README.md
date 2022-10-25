@@ -6,7 +6,7 @@ Day and night
 
 # General information 
 
-Project is a creative work depicting a Jetty atmosphere in altering day/night conditions. The purpose is to create aesthetically pleasing and interactive art that entices viewers. 
+My project is a creative work depicting a Jetty atmosphere in altering day/night conditions. The purpose is to create aesthetically pleasing and interactive art that entices viewers. 
 
 # Technologies used 
 
