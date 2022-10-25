@@ -14,11 +14,11 @@ Processing 4.0b9
 
 # Features
 
-- atmosphere that changes when you drag your mouse down
-- depicting sunset and night settings
-- animation and interactivity 
-- different shapes and colour 
-- starry sky (night) colour changing sky (day)
+- Atmosphere that changes when you drag your mouse down
+- Depicting sunset and night settings
+- Animation and interactivity 
+- Different shapes and colour 
+- Starry sky (night) colour changing sky (day)
 
 # Screenshots 
 
