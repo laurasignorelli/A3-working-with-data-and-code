@@ -28,7 +28,7 @@ Processing 4.0b9
 
 # Setup
 
-There is a png image of a cloud used in my project (cloud2.png). Please download this along with the pde file and add them both to a folder to ensure it runs correctly 
+There is a png image of a cloud used in my project (cloud2.png). Please download this along with the pde file and add them both to a folder to ensure it runs correctly. Also ensure the sketch is run in processing with Java
 
 # Usage
 
