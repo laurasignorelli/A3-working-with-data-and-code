@@ -26,11 +26,17 @@ Processing 4.0b9
 
 <img width="595" alt="Screen Shot 2022-10-25 at 12 15 27 pm" src="https://user-images.githubusercontent.com/116043834/197659619-ba636121-0289-4fb7-9c80-60670f65459d.png">
 
-# Setup 
+# Setup
+
+There is a png image of a cloud used in my project (cloud2.png). Please download this along with the pde file and add them both to a folder to ensure it runs correctly 
 
 # Usage
 
+Press the run button on processing to run code
+
 # Project status
+
+Completed 
 
 # Room for improvement 
 
