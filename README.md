@@ -8,19 +8,6 @@ Day and night
 
 Project is a creative work depicting a Jetty atmosphere in altering day/night conditions. The purpose is to create aesthetically pleasing and interactive art that entices viewers. 
 
-# Table of contents 
-
-General Info
-Technologies Used
-Features
-Screenshots
-Setup
-Usage
-Project Status
-Room for Improvement
-Acknowledgements
-Contact
-
 # Technologies used 
 
 Processing 4.0b9
