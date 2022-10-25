@@ -15,8 +15,8 @@ Processing 4.0b9
 # Features
 
 - atmosphere that changes when you drag your mouse down
-- sunset and night 
-- animation 
+- depicting sunset and night settings
+- animation and interactivity 
 - different shapes and colour 
 - starry sky (night) colour changing sky (day)
 
@@ -32,7 +32,10 @@ There is a png image of a cloud used in my project (cloud2.png). Please download
 
 # Usage
 
-Press the run button on processing to run code
+1. Press the run button on processing to run code. 
+2. To move sun downwards, and cloud across, press mouse or keypad.  
+3. To watch sky blend between 2 colours, drag mouse across screen 
+4. To transition to night setting, move mouse downwards until it is off the page
 
 # Project status
 
@@ -40,6 +43,12 @@ Completed
 
 # Room for improvement 
 
+- Working on more realistic textures
+
 # Acknowledgements 
 
+'The Coding Train' youtube tutorials taught me the basic techniques needed to complete this project
+
 # Contact 
+
+laura.signorelli@student.uts.edu.au
