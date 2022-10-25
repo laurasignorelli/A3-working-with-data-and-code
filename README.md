@@ -22,10 +22,9 @@ Processing 4.0b9
 
 # Screenshots 
 
-<img width="598" alt="Screen Shot 2022-10-25 at 12 15 13 pm" src="https://user-images.githubusercontent.com/116043834/197659436-9e697c2d-9a3f-4c75-99b5-cc9d84bf21dd.png">
+<img width="594" alt="Screen Shot 2022-10-25 at 12 15 13 pm" src="https://user-images.githubusercontent.com/116043834/197659615-bab7b4e9-3bd6-43c8-9987-e962152559b3.png">
 
-<img width="603" alt="Screen Shot 2022-10-25 at 12 15 27 pm" src="https://user-images.githubusercontent.com/116043834/197659442-66c1cb65-e452-46a2-93ed-d429cf654e4f.png">
-
+<img width="595" alt="Screen Shot 2022-10-25 at 12 15 27 pm" src="https://user-images.githubusercontent.com/116043834/197659619-ba636121-0289-4fb7-9c80-60670f65459d.png">
 
 # Setup 
 
