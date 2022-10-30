@@ -34,7 +34,7 @@ There is a png image of a cloud used in my project (cloud2.png). Please download
 
 1. Press the run button on processing to run code. 
 2. To move sun downwards, and cloud across, press mouse or keypad.  
-3. To watch sky blend between 2 colours, drag mouse across screen 
+3. To make sky blend between 2 colours, drag mouse across screen 
 4. To transition to night setting, move mouse downwards until it is off the page
 
 # Project status
